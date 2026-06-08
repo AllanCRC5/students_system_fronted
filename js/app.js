@@ -1,5 +1,5 @@
-const STUDENT_API ="https://system-students-o2d8.onrender.com/students";
-const COURSE_API = "https://system-students-o2d8.onrender.com/courses";
+const STUDENT_API ="https://system-students-o2d8.onrender.com/api/students";
+const COURSE_API = "https://system-students-o2d8.onrender.com/api/courses";
 
 const studentForm = document.getElementById("studentForm");
 const courseForm = document.getElementById("courseForm");
